@@ -33,6 +33,9 @@ https://colab.research.google.com/drive/1mqt1hUPnpSNtCXNtCMvFoP36fewuqCNn?usp=sh
 <img width="989" height="590" alt="download (6)" src="https://github.com/user-attachments/assets/87f186bc-03d3-4583-bc36-155776ec90d7" />
 <img width="790" height="490" alt="download (8)" src="https://github.com/user-attachments/assets/ab471a10-d3c0-4769-8282-e6e034fb31fb" />
 
+Clone Github
+https://github.com/adishyatanisha/FAE-Beauty-sales-and-profit-forecasting.git
+
 👨‍💻 Author
 TANISHA ADISHYA
 3rd Year BCA Student at Delhi Technical Campus
